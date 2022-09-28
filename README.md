@@ -8,8 +8,8 @@
 </div>
 
 
-- 💻 Hoje faço estagio na area de back-end 
-- ✏️ Estudando C#
+- 💻 Hoje faço estagio na area de Front-end 
+- ✏️ Estudando ReactJS
 - 😄 Pronouns: ela/dela
 
 
